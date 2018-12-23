@@ -24,7 +24,7 @@ interaction with the virtual DOM in all other cases.
 * React, Redux
 * Ruby on Rails
 * PostgreSQL
-* HTML/CSS/Bootstrap
+* HTML/CSS/Bootstrap/jQuery
 
 ## Author
 
