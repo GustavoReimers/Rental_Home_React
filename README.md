@@ -21,6 +21,15 @@ is used for systematic uniformity of back/frontend interactions and rendering.
 Note: jQuery is used in one instance (price filter) for demonstration of skill. Emphasizes
 interaction with the virtual DOM in all other cases.
 
+* React, Redux
+* Ruby on Rails
+* PostgreSQL
+* HTML/CSS/Bootstrap
+
+## Author
+
+* https://github.com/dragonboy612
+
 
 
 
