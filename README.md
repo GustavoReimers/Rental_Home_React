@@ -18,7 +18,7 @@ Postgresql are employed for data storage and querying. HTML and CSS are responsi
 for all styling and animations (emphasis on CSS keyframes for movement). Finally, React with Redux
 is used for systematic uniformity of back/frontend interactions and rendering.
 
-Note: jQuery is used in one instance (price filter) for demonstration of skill. ScareBnb emphasizes
+Note: jQuery is used in one instance (price filter) for demonstration of skill. Emphasizes
 interaction with the virtual DOM in all other cases.
 
 
