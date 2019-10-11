@@ -30,7 +30,7 @@ interaction with the virtual DOM in all other cases.
 
 ## Author
 
-* https://github.com/dragonboy612
+* https://github.com/SeniorDev34
 
 
 
