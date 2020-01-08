@@ -28,9 +28,7 @@ interaction with the virtual DOM in all other cases.
 * PostgreSQL
 * HTML/CSS/Bootstrap/jQuery
 
-## Author
 
-* https://github.com/SeniorDev34
 
 
 
